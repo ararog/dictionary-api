@@ -44,6 +44,8 @@ gem "bootsnap", require: false
 
 gem 'rack-cors', :require => 'rack/cors'
 
+gem 'faker'
+
 # Use Sass to process CSS
 # gem "sassc-rails"
 
